@@ -1,0 +1,16 @@
+Dear Valued Customer,<br/><br/>
+
+Due to the current situation in the country, your SLT-MOBITEL ${ACCOUNT_NUM} bill will be sent via email
+ to your registered email address ${EMAIL} instead of the printed bill with immediate effect.<br/><br/>
+ 
+ 
+හිතවත් පාරිභෝගිකය,<br/><br/>
+
+රටේ පවතින වර්තමාන තත්වය හමුවේ, මුද්‍රිත බිල්පත වෙනුවට ඔබගේ SLT-MOBITEL ${ACCOUNT_NUM} ඊ බිල්පත, ප්‍රමාදයකින් තොරව විද්‍යුත් තැපෑල මගින්, 
+ඔබගේ ලියාපදිංචි ඊමේල් ලිපිනයට ${EMAIL}  එවනු ලැබේ.<br/><br/>
+
+If you need further clarifications, please contact your SLT Account Manager ${ACCOUNTMANAGER} via ${AMEMAIL}.<br/><br/>
+
+SLTMOBITEL එකම එක සබැඳියාවක්.<br/><br/>
+
+<img src="cid:image1">
